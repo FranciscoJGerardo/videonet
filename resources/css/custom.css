@@ -10,3 +10,7 @@
 .btn-custom:hover {
     background-color: #e64a19; /* Un tono un poco más oscuro para el hover */
 }
+
+.custom-container{
+    margin-top: 5rem;
+}
