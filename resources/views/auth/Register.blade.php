@@ -56,7 +56,7 @@
                                     <span class="text-danger">{{ $message }}</span>
                                 @enderror
                             </div>
-                            <button type="submit" class="btn btn-primary mt-2">Registrate</button>
+                            <button type="submit" class="btn-custom">Registrate</button>
                         </form>
                     </div>
                 </div>
